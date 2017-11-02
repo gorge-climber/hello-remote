@@ -4,6 +4,9 @@ Another line here too.
 Another branch another line!
 
 This time I only add lines.
+
+Adding lines in between other lines.
+
 And another one.
 
 Feature X code {}
